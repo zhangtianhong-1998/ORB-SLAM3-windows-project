@@ -2,7 +2,8 @@
 1. ORB-SLAM3forWindows-master这个尚未进行编译
 2. 编译主要参考了这两个项目的实践
 - https://github.com/chanho-code/ORB-SLAM3forWindows
-- https://github.com/melhashash/orbslam3-windows
+- **这是实际使用的项目：** https://github.com/melhashash/orbslam3-windows
+- 在windows11上使用 VS2019 配合Cmake-gui 编译 
 # Eigen安装与调用
 1. 将Eigen下载源文件，并解压
 2. 将Eigen库导入到VS中 在项目的附加包含目录中添加Eigen的解压路径（只要包含在最外层的文件路径就行）
